@@ -1,6 +1,4 @@
-Here's an enhanced and detailed `README.md` file that walks through each major step of the project, discusses the pre-signed URL technique, and provides future integration options with S3 using AWS Signature v4. The `config.h` file explanation is included, providing a clear and concise view of how to set up the AWS credentials.
 
----
 
 # ESP32-S3 Eye: Real-Time Image Capture and AWS S3 Upload
 
